@@ -2,5 +2,9 @@ body {
   background-color: lightblue;
 }
 div {
-  font-size: 190pt;
+  font-size: 100pt;
+}
+
+input {
+  font-size: 40pt;
 }
